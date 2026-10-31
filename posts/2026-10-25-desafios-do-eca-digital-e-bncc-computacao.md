@@ -23,11 +23,11 @@ Separar a intenção pedagógica da simples reprodução utilitária de tecnolog
 
 Para superar essa barreira, a saída não é banir a tecnologia e nem adotá-la de forma cega, mas sim abraçar a transdisciplinaridade proposta pela abordagem **STHEAM** — inserindo o "H" de **Humanidades** no centro da Ciência, Tecnologia, Engenharia, Artes e Matemática. Através da *Jornada STHEAM*, o ensino de pensamento computacional em bio, química e física ganha contornos de ética, empatia, cidadania digital e Desenho Universal para a Aprendizagem (DUA), garantindo que estudantes atípicos e neurodivergentes aprendam de forma verdadeiramente inclusiva, autoral e crítica.
 
-## Desmistificando o Processo Científico: O Erro do Senso Comum na Sala de Aula
+## Desmistificando o Processo Científico: O erro do senso comum na sala de aula
 
 Um dos equívocos mais persistentes no cotidiano escolar é a visão positivista e linear do método científico. O senso comum costuma retratar a Ciência como um conjunto de passos rígidos — observação, hipótese, experimento e conclusão — que invariavelmente levam a uma "verdade absoluta". Essa concepção engessada afasta os estudantes da real natureza da atividade científica, que é inerentemente dinâmica, colaborativa, sujeita a falhas e profundamente influenciada por contextos sociais e éticos (CHALMERS, 1993).
 
-Quando levamos o pensamento computacional para as aulas de Ciências da Natureza, esse mito precisa ser quebrado. O erro, a depuração (*debugging*) e a reformulação de hipóteses não são fracassos do processo, mas sim o próprio motor da construção do conhecimento. Ao compreenderem que cientistas também testam, erram e recalcitram abordagens, os alunos desenvolvem resiliência cognitiva e pensamento crítico — competências centrais para formar cidadãos capazes de avaliar evidências em tempos de desinformação digital.
+Quando levamos o pensamento computacional para as aulas de Ciências da Natureza, esse mito precisa ser quebrado. O erro, a depuração (*debugging*) e a reformulação de hipóteses não são fracassos do processo, mas sim o próprio motor da construção do conhecimento. Ao compreenderem que cientistas também testam, erram e recalculam as abordagens, os alunos desenvolvem resiliência cognitiva e pensamento crítico — competências centrais para formar cidadãos capazes de avaliar evidências em tempos de desinformação digital.
 
 ## Descomplicando o Alinhamento entre BNCC e BNCC da Computação
 
@@ -35,7 +35,7 @@ Articular as diretrizes gerais da BNCC com as especificidades da BNCC da Computa
 
 Por exemplo, ao investigar a biodiversidade local ou o ciclo da água, os estudantes podem utilizar a **decomposição** para dividir um problema ambiental complexo em partes menores, criar **algoritmos** simples para classificar espécies ou analisar **padrões** em dados meteorológicos. Essa abordagem não exige laboratórios sofisticados de robótica; ela fundamenta-se no desenvolvimento de esquemas mentais de resolução de problemas, unindo a investigação científica ao raciocínio lógico-computacional de maneira fluida e contextualizada.
 
-## Desmistificando as TDICs: A Tecnologia como Meio, Não como Fim
+## A Tecnologia como Meio, Não como Fim
 
 Existe um mito recorrente de que incorporar as Tecnologias Digitais de Informação e Comunicação (TDICs) exige telas individuais para todos os alunos ou o domínio de softwares complexos de programação. Essa visão gera frustração nos professores e perpetua a desigualdade nas escolas com recursos limitados. A renovação do processo de ensino-aprendizagem ocorre na **intencionalidade pedagógica**, e não na sofisticação do dispositivo utilizado.
 
