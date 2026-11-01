@@ -8,6 +8,8 @@ tags: [Acessibilidade, DUA, WCAG, REA, Inclusão, Design Educacional]
 destaque: 1
 formato: Guia
 publico: [Professores, Estudantes universitários, Estagiários, Pais atípicos]
+cover: assets/blog/capa_dua_rea.png
+cover_alt: Professores diversos analisam e debatem entusiasmados sobre acessibilidade digital em materiais educacionais ao redor de um Chromebook.
 rascunho: false
 ---
 
